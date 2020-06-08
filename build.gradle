@@ -5,7 +5,7 @@ repositories {
     mavenCentral()
     jcenter()
 }
-group 'com.github.m-kojima'
+group 'com.github.mkojima'
 version '0.0.1'
 
 apply plugin: 'maven-publish'
